@@ -1,0 +1,5 @@
+Esses equipamentos geralmente são os responsáveis
+por atender as requisições dos computadores clientes
+da rede local. Um servidor local tem como função centralizar
+as aplicações corporativas de TI dentro das organizações, como
+executar softwares administrativos e banco de dados.

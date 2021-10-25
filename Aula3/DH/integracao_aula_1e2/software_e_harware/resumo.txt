@@ -1,0 +1,7 @@
+O hardware destina-se a executar a tarefa
+no nível da máquina, enquanto o software fornece
+instruções para o hardware. Manter seu software
+atualizado, significa garantir a segurança dos
+seus sistemas, o bom desempenho dos processos,
+ou qualquer outro bug que possa atrapalhar
+o desempenho do seu sistema.
